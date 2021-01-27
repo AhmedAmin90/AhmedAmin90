@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Amin</h1>
 <h3 align="center">A Full stack Student</h3> 
-<h1 align="center">I'm Egyptian and Live in Turkey  </h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedamin90" alt="ahmedamin90" /></a> </p>
 
