@@ -13,7 +13,7 @@
 
 - [Download My CV](https://drive.google.com/file/d/1yy53LdBfJ-WJT3lw5pe01cd0wvBmWvbw/view?usp=sharing)
 
-- My Portfolio: [Visit My Portfolio ](https://github.com/AhmedAmin90?tab=repositories)
+- My Portfolio: [Visit My Portfolio ](https://amin-dev-me.netlify.app/)
 
 # Connect with me:
 
