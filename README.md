@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋  I'm Ahmed Amin From 🇪🇬 & Live in 🇹🇷 </h1>
 <h3 align="center">A Full stack Developer</h3> 
 
-- 🔭 I’m currently studying on **Microverse** https://www.microverse.org/  💻
+- 🔭 Graduated from **Microverse** https://www.microverse.org/  💻
 
 - 👨‍💻 All of my projects are available at [My Repositories ](https://github.com/AhmedAmin90?tab=repositories)
 
