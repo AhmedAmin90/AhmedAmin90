@@ -5,15 +5,10 @@
 
 - 🔭 Graduated from **Microverse** https://www.microverse.org/  💻
 
-- 👨‍💻 All of my projects are available at [My Repositories ](https://github.com/AhmedAmin90?tab=repositories)
-
 - 📫 How to reach me **qa.ahmed.amin10@gmail.com** 
 
 - ⭐ **It is not about your age, It is about your soul, dreams and your will. Keep Learning ⭐**
 
-- [Download My CV](https://drive.google.com/file/d/1i0LJCmlirU7goIysFKJaGeRwS4n0qbMI/view)
-
-- My Portfolio: [Visit My Portfolio ](https://amin-dev-me.netlify.app/)
 
 # Connect with me:
 
