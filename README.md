@@ -5,7 +5,7 @@
 
 - 🔭 Graduated from **Microverse** https://www.microverse.org/  💻
 
-- 📫 How to reach me **qa.ahmed.amin10@gmail.com** 
+- 📫 **qa.ahmed.amin10@gmail.com** 
 
 - ⭐ **It is not about your age, It is about your soul, dreams and your will. Keep Learning ⭐**
 
