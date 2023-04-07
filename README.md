@@ -1,6 +1,6 @@
 # AhmedAmin
 
-<h1 align="center">Hi 👋  I'm Ahmed Amin From 🇪🇬 & Live in 🇹🇷 </h1>
+<h1 align="center">Ahmed Amin 🇪🇬 🇹🇷 </h1>
 <h3 align="center">A Full stack Developer</h3> 
 
 - 🔭 Graduated from **Microverse** https://www.microverse.org/  💻
